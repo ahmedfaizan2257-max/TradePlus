@@ -1,0 +1,6 @@
+{
+  "name": "Tradesyncer",
+  "description": "A high-performance clone of Tradesyncer, the premier cloud trade copier for prop firms and retail traders. Features an added light and dark theme mode, interactive trade replication simulator, and user dashboard.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
